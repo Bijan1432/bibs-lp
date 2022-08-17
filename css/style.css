@@ -4703,7 +4703,7 @@ h4 strong {
 }
 
 .new-banner .new-banner-right h1 strong {
-	font-size: 4.3vmax;
+	font-size: 3.3vmax;
 	font-weight: 600 !important;
 	font-family: 'Rubik', sans-serif !important;
 }
@@ -6800,7 +6800,7 @@ input::placeholder {
 }
 
 .navbar-brand img {
-	width: 85px;
+	width: 88px;
 }
 
 .navbar-brand {
